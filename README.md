@@ -172,9 +172,9 @@ Renewable-Energy-Forecasting/
 │
 ├── data/                         # Climate and renewable-energy datasets
 │
-├── VRE_Alice_Titouan.ipynb      # Complete analysis and ML pipeline
+├── VRE_forcasting.ipynb      # Complete analysis and ML pipeline
 │
-├── VRE_Alice_Titouan.slides.html
+├── VRE_forcasting_report.html
 │                                 # Project presentation
 │
 └── README.md                     # Project overview and documentation
@@ -186,11 +186,11 @@ Renewable-Energy-Forecasting/
 
 The complete workflow is implemented in the Jupyter notebook:
 
-**`VRE_Alice_Titouan.ipynb`**
+**`VRE_forcasting.ipynb`**
 
 It contains the data preprocessing, exploratory analysis, feature engineering, model training, hyperparameter optimization, evaluation, and visualizations used in the project.
 
-The HTML presentation provides a condensed walkthrough of the methodology and main results.
+The HTML report provides a condensed walkthrough of the methodology and main results.
 
 ---
 
@@ -199,6 +199,6 @@ The HTML presentation provides a condensed walkthrough of the methodology and ma
 This project was developed collaboratively by:
 
 - **Titouan Salin**
-- **Alice [Last Name]**
+- **Alice Vergnes**
 
 as part of coursework at **École Polytechnique**.
